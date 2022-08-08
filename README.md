@@ -1,0 +1,1 @@
+# -eosio.contracts_view_test
